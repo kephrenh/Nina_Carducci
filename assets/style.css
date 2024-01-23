@@ -92,9 +92,6 @@ body {
 	font-size: 14px;
 }
 
-#gallery {
-	/*	min-height: 100vh; */
-}
 .title{
 	text-align: center;
 	padding-block: 2em;
@@ -365,4 +362,3 @@ input[type="submit"] {
 		width: 80%;
 	}
 }
-
